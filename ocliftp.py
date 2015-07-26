@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """
 ocliftp - NON interactive FTP client
-Copyright (C) 2014  Michal Orovan
+Copyright (C) 2014 0rovan
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
